@@ -15,13 +15,16 @@ RegAddr Description                 Resolution
 
 ```
 
-![ScreenShot](https://github.com/worrajak/STM32_PZEM016/blob/master/uCCC097.jpg?raw=true)
+![ScreenShot](https://github.com/worrajak/STM32_PZEM016/blob/master/uCCC097.jpg?raw=true)  
 
-![ScreenShot](https://github.com/worrajak/STM32_PZEM016/blob/master/uCCC098.jpg?raw=true)
+![ScreenShot](https://github.com/worrajak/STM32_PZEM016/blob/master/uCCC098.jpg?raw=true)  
 
-![ScreenShot](https://github.com/worrajak/STM32_PZEM016/blob/master/uCCC099.jpg?raw=true)
+![ScreenShot](https://github.com/worrajak/STM32_PZEM016/blob/master/uCCC099.jpg?raw=true)  
 
-![ScreenShot](https://github.com/worrajak/STM32_PZEM016/blob/master/uCCC001.jpg?raw=true)
+![ScreenShot](https://github.com/worrajak/STM32_PZEM016/blob/master/uCCC001.jpg?raw=true)  
 
-![ScreenShot](https://github.com/worrajak/STM32_PZEM016/blob/master/uCCC002.jpg?raw=true)
+![ScreenShot](https://github.com/worrajak/STM32_PZEM016/blob/master/uCCC002.jpg?raw=true)  
 
+![ScreenShot](https://github.com/worrajak/STM32_PZEM016/blob/master/uCCC007.jpg?raw=true)  
+
+![ScreenShot](https://github.com/worrajak/STM32_PZEM016/blob/master/uCCC006.jpg?raw=true)  
