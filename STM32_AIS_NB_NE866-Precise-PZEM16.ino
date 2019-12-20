@@ -15,7 +15,7 @@ Adafruit_BME280 bme; // I2C #define BME280_ADDRESS                (0x76)
 #define RST_PIN -1
 SSD1306AsciiWire oled;
 
-String serverIP = "34.87.25.24"; // Your Server IP
+String serverIP = "34.87.xx.xx"; // Your Server IP
 String serverPort = "2318"; // Your Server Port
 
 #define MAX485_DE      PA1
